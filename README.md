@@ -15,5 +15,5 @@ Movie Finder
 
 Movie Finder Data  is a project that will utilaz the skills that coenside with node js.
 In this project the basic Javascript will be used as well as HTMl and a new skills.
-The new skill will be how to learn to use axios calls as well as how to make a cahse for the information that has
+The new skill will be how to learn to use axios calls as well as how to make a cache for the information that has
 pulled from the server and delivered to the user.
